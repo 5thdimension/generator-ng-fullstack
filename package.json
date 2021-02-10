@@ -39,6 +39,7 @@
   "dependencies": {
     "chalk": "^1.0.0",
     "lodash": "^4.13.1",
+    "protractor": "^7.0.0",
     "yeoman-generator": "^0.19.2",
     "yosay": "^2.0.2"
   },
